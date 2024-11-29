@@ -35,9 +35,9 @@ Our research focuses on leveraging Electronic Health Records (EHR) and genomic d
 ---
 
 ## 📚 **Publications**
-1. **Kim A., Lee B., et al.** (2023). *"EHR-Driven Early Detection of Chronic Diseases."* Journal of Clinical AI.  
+1. **Example.** (2023). *"EHR-Driven Early Detection of Chronic Diseases."* Journal of Clinical AI.  
    [Read here](https://doi.org/xxxxxx)  
-2. **Park C., Kim A., et al.** (2022). *"Genomic Correlates of Cardiovascular Risks."* Genomics & Health Journal.  
+2. **Example.** (2022). *"Genomic Correlates of Cardiovascular Risks."* Genomics & Health Journal.  
    [Read here](https://doi.org/xxxxxx)  
 
 ---
